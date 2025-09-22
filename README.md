@@ -35,18 +35,20 @@ The system logs data to CSV, detects anomalies (overheating, undervoltage), and 
 Run device simulation:  
 ```bash
 python device_sim.py
+```
+
 Run test controller:
-
+```
 python test_controller.py
-
+```
 
 Visualize results:
-
+```
 python plot_results.py
-
+```
 
 Run automated test script:
-
+```
 sh run_test.sh
 ```
 
