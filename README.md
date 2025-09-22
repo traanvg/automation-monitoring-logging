@@ -48,8 +48,7 @@ python plot_results.py
 Run automated test script:
 
 sh run_test.sh
+```
 
-
----
 📎 Credits
 Author: Tran Vuong
